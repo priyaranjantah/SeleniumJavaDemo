@@ -82,7 +82,7 @@ public class TestBaseSetup {
 	@BeforeClass
 	public static void setDriver(){
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\SeleniumDrivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\chromedriver_win32\\chromedriver.exe");
 		driver = new ChromeDriver();
 		
 	}
