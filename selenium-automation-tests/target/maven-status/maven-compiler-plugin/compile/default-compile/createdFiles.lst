@@ -1,0 +1,17 @@
+com\automation\examples\WindowHandle.class
+com\automation\examples\DragAndDrop.class
+com\automation\examples\MouseHover.class
+com\automation\examples\CheckBoxAndRadioButton.class
+com\automation\examples\DropDownCommands.class
+com\modular\framework\SignIn_Action.class
+com\pageobjects\LogIn_Page.class
+com\automation\examples\WebElementCommands.class
+com\modular\automationFramework\Module_TC.class
+com\automation\examples\DynamicWebTable.class
+com\automation\examples\SimpleAlerts.class
+com\pageobjects\Home_Page.class
+com\automation\examples\ExcelReading.class
+com\automation\examples\WebDriverCommands.class
+com\automation\examples\MultiSelectDropDown.class
+com\automation\examples\NavigateCommands.class
+com\automation\examples\Frames.class

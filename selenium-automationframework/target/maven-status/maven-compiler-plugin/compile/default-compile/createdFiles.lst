@@ -1,0 +1,4 @@
+com\common\utilities\LoadConfigProperties.class
+com\common\pageobjects\BaseDriver.class
+com\common\pageobjects\HomePage.class
+com\common\pageobjects\LoginPage.class
